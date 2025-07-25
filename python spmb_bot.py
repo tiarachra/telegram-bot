@@ -12,10 +12,10 @@ from datetime import datetime
 import logging
 
 # ========== KONFIGURASI ==========
-BOT_TOKEN = '7653700161:AAFPqQcOTS0CxMpT_f5i8coCem9a5kw1AZs'
-CHANNEL_ID = -1002605314830
-GROUP_LINK = 'https://t.me/+ienC7LRTDHdiYmI1'
-ADMIN_IDS = {6464712091}
+BOT_TOKEN = ''
+CHANNEL_ID = 0
+GROUP_LINK = ''
+ADMIN_IDS = set{}
 
 # ========== SETUP LOGGING ==========
 logging.basicConfig(
