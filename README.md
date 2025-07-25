@@ -1,5 +1,4 @@
-This bot was developed as part of an internal project for AST Volunteer SPMB 2025, an event initiated by the Anaksmatangerang community to support junior high school students in preparing for SPMB Banten 2025.
-It was utilized by the Telegram Admin Division to automate administrative tasks and streamline the collection of participant requirements via Telegram.
+This bot was developed as part of an internal project for AST Volunteer SPMB 2025, an event initiated by the Anaksmatangerang to support junior high school students in preparing for SPMB Banten 2025. It was utilized by the Telegram Admin Division to automate administrative tasks and streamline the collection of participant requirements via Telegram.
 
 **Features**:
 - Automatically sends instructions to users via private chat.
