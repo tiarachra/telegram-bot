@@ -1,3 +1,7 @@
+"""
+© 2025 Tiara Chantika. All rights reserved.
+This script is not licensed for reuse or distribution without permission.
+"""
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.ext import (
     ApplicationBuilder,
