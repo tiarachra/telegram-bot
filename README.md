@@ -14,6 +14,7 @@ This bot was developed as part of an internal project for AST Volunteer SPMB 202
 4. Bot sends the response back to the participant.
 
 **License and Usage Rights**
+
 This code is private. Don't use, copy, modify, or redistribute this project without written permission from the repository owner.
 If you'd like to use or contribute, please contact the owner first. To request access, please refer to the contact information in the [LICENSE](./LICENSE) file.
 
