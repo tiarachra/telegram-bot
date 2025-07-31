@@ -2,6 +2,7 @@ This bot was developed as part of an internal project for AST Volunteer SPMB 202
 
 **Features**:
 - Automatically sends instructions to users via private chat.
+- Can receive up to 10 photos in one message and PDF files
 - Forwards submissions to group/channel.
 - Admins can reply in group, and the bot forwards replies back to the user.
 - Quick buttons for "Complete" / "Incomplete" status.
